@@ -1,2 +1,2 @@
 # Project2B-artefacts
-This is a repository for artefacts for GUARDIANS Project 2B led by AAF
+This repository contains project artefacts such as user stories and diagrams for GUARDIANS Project 2B coordinated by AAF and Australian BioCommons.
