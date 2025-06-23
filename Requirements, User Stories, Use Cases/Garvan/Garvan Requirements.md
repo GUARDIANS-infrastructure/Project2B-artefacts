@@ -1,3 +1,7 @@
+# Garvan Requirements: Discovery Phase
+
+The following requirements were captured during discovery sessions with Garvan and have been validated through a playback session with the partner to confirm shared understanding and alignment:
+
 | ID   | Requirement Description | MoSCoW |
 |------|--------------------------|-----------------|
 | R13  | The AAI solution supports single sign-on (SSO) for Garvan services – REDCap, CTRL, REMS, RDDP (long-term/stretch goal). | Must Have |
