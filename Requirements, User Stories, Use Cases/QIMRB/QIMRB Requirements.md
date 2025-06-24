@@ -1,6 +1,6 @@
 # QIMRB Requirements: Discovery Phase
 
-The following requirements were captured during discovery sessions with QIMRB and will require validation via playback session:
+The following requirements were captured during a discovery session with QIMRB and will require validation via playback session:
 
 | ID   | Requirement | MoSCoW |
 |------|--------------------------|-----------------|
