@@ -1,4 +1,6 @@
+# CCI Requirements: Discovery Phase
 
+The following requirements were captured during discovery sessions with CCI and have been validated through a playback session with the partner to confirm shared understanding and alignment:
 
 | ID   | Requirement | MoSCoW |
 |------|--------------------------|-----------------|
