@@ -2,7 +2,7 @@
 
 The following requirements were captured during discovery sessions with Garvan and have been validated through a playback session with the partner to confirm shared understanding and alignment:
 
-| ID   | Requirement Description | MoSCoW |
+| ID   | Requirement | MoSCoW |
 |------|--------------------------|-----------------|
 | R13  | The AAI solution supports single sign-on (SSO) for Garvan services – REDCap, CTRL, REMS, RDDP (long-term/stretch goal). | Must Have |
 | R14  | The AAI solution support OpenID Connect (OIDC) as the protocol for service integrations. | Must Have |
